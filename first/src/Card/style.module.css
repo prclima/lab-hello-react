@@ -1,0 +1,19 @@
+
+.div{
+
+    background: #20232a;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 70px;
+
+}
+.img {
+    display: block;
+    
+}
+
+.img2{
+    display: block;
+    
+}

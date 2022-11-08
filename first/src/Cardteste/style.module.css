@@ -1,0 +1,56 @@
+.div {
+    width: 100vw;
+    height: 400px;
+    background:  #20232a;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+h1 {
+    width: 350px;
+    color: aliceblue;
+    
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400700;
+    font-style: large;
+    font-size: 60px;
+    display: block;
+
+}
+
+p{
+    width: 260px;
+    color: aliceblue;
+    
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400700;
+    font-style: large;
+    display: block;
+    
+ 
+}
+
+.button{
+    background: white;
+    padding: 20px;
+    color: #1C2635;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 600;
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    
+    
+    
+}

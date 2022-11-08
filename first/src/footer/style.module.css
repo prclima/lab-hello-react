@@ -1,0 +1,35 @@
+.div {
+  display: inline-block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+  bottom: 0;
+  }
+
+
+.imgfoot{
+    margin: 0px;
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 200px;
+    bottom: 0;
+}
+
+.div h3 {
+  display: block;
+  margin-left: 40px;
+  font-family: 'Roboto', sans-serif;
+ 
+}
+
+
+.div p{
+  color: black;
+  margin-left: 40px;
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400700;
+  font-style: large;
+}
